@@ -16,8 +16,8 @@ const Footer = () => {
             className='object-contain' />
 
             <p className='text-base text-gray-700'>
-              Carhub 2023 <br/>
-              All rights reserved &copy; Erron John C. Lapac 
+              Carhub Showcase 2023 <br/>
+              All rights reserved &copy; Erron John C. Lapac
             </p>
           </div>
 
